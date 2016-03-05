@@ -1,4 +1,4 @@
-name: 'rhettburch '
+name: Rhett Burch
 favicon: null
 layout_spectrum: 0.930064158514142
 typography_spectrum: 0.0050312792882323265
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#0e0e0e'
+    - '#e0dbe1'
+    - '#7d645f'
+    - '#a392a4'
+    - '#7a2e0e'
   brandStrength: 0.9923824733123183
   lightness: 0.5894749099388719
   saturation: 0.520944168092683
